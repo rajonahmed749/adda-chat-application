@@ -12,5 +12,5 @@
 
 ### `Live Site:`
 
-Open [https://adda-today.web.app/](https://adda-today.web.app/) open and communicate with your dearest 🙂.
+Open [https://adda-today.web.app/](https://adda-today.web.app/) open and communicate with your dearest. Happy chatting 🙂
 
